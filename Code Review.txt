@@ -1,0 +1,5 @@
+I did not have any issues loading up the project file and viewing the code.
+I saw that the dbml file is there and correctly set up with appropriate data types and column names.
+I also used the Linq to SQL statements for my queries.
+The method names are named somewhat nondescriptively, but there are good comments throughout.
+I could easily tell what everything is supposed to do.

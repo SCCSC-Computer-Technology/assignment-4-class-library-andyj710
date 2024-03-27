@@ -1,0 +1,7 @@
+C:\Users\asjab\source\repos\Statelab3ClassLibrary\bin\Debug\Statelab3ClassLibrary.dll
+C:\Users\asjab\source\repos\Statelab3ClassLibrary\bin\Debug\Statelab3ClassLibrary.pdb
+C:\Users\asjab\source\repos\Statelab3ClassLibrary\obj\Debug\Statelab3ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\asjab\source\repos\Statelab3ClassLibrary\obj\Debug\Statelab3ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asjab\source\repos\Statelab3ClassLibrary\obj\Debug\Statelab3ClassLibrary.dll
+C:\Users\asjab\source\repos\Statelab3ClassLibrary\obj\Debug\Statelab3ClassLibrary.pdb
+C:\Users\asjab\source\repos\Statelab3ClassLibrary\bin\Debug\Statelab3ClassLibrary.dll.config

@@ -1,0 +1,3 @@
+The class and dbml files should be named with something indicitive of their purpose. I would have found it helpful to have the methods and their queries commented so their purpose was understandable at a glance. 
+Since it is just the class I can't test functionality but everything looks good.
+We built our classes very differently I only built one class whereas you built three. Your code looks very interesting and I'm going to look at your application that goes with it so I can understand how everthing was implemented.

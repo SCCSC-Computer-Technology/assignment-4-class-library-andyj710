@@ -1,0 +1,4 @@
+Consider using more descriptive names for classes and methods to make their purposes clearer. For example, class1 could be renamed to something like StateDataHandler, DatabaseManager, or any other name that reflects
+its role in the project. Your ErrorClass provides a simple method to retrieve error messages. It's good practice to handle errors gracefully and provide informative error messages to users or developers. 
+Consider enhancing this class to handle different types of errors and provide more detailed error messages. The sortButton_Click class provides methods for sorting data. Consider integrating these methods with your data 
+retrieval methods or UI event handlers to provide sorting functionality to users.

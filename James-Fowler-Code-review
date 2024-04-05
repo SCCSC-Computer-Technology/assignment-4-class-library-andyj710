@@ -1,0 +1,5 @@
+Your classes and methods are structured logically, making it easier to understand the purpose of each component.
+You're using LINQ effectively to interact with the database
+Including a dedicated error class is a proactive approach. Ensure you're also catching exceptions where database operations occur.
+Your comments are very well written and easy to understand.
+If anything were to be changed I would just name the classes something other than Class1 just to let users know what it is by the title

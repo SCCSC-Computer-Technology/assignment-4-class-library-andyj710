@@ -1,0 +1,6 @@
+-Student did well and appears to have good understanding 
+of formulating classes
+-Student has well structured data representation.
+I was able to understand the model
+-Event handling for when changes are made
+-Program is well thought out and thorough
